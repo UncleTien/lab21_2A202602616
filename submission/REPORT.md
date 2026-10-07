@@ -149,9 +149,8 @@ Các thí nghiệm NB4 cũng cho thấy không có một chỉ số đơn lẻ q
 ---
 
 ## Phụ lục — thưởng đã làm
-
 - [ ] B1 NB6 merge + hot-swap
 - [ ] B2 dataset miền riêng (`data/CUSTOM_DATASET.md`)
 - [ ] B3 reasoning-trace collapse (hai `MASK_MODE`, kèm `valid_trace_rate`)
 - [ ] B4 quét rank có kiểm soát
-- [ ] B5 HuggingFace Hub — link: **chưa upload**
+- [x] B5 HuggingFace Hub — link: https://huggingface.co/phtien/lab21-2A202602616-lora
